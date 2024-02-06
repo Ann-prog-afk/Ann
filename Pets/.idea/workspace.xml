@@ -29,12 +29,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.PetTest.updateUserUser">
-    <configuration name="PetTest.createWithArrayArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.NewPetTest.newPetTest">
+    <configuration name="NewPetTest.newPetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pets" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PetTest" />
-      <option name="METHOD_NAME" value="createWithArrayArray" />
+      <option name="MAIN_CLASS_NAME" value="NewPetTest" />
+      <option name="METHOD_NAME" value="newPetTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NewPetTest.newPetTest" />
         <item itemvalue="JUnit.PetTest.updateUserUser" />
         <item itemvalue="JUnit.PetTest.updatePetPet" />
         <item itemvalue="JUnit.PetTest.userUser" />
         <item itemvalue="JUnit.PetTest.createWithListList" />
-        <item itemvalue="JUnit.PetTest.createWithArrayArray" />
       </list>
     </recent_temporary>
   </component>
